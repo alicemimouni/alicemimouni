@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-##💻 Développeuse web fullstack passionnée, j'aime concevoir des solutions web sur mesure, artisanales et optimisées.
+## 💻 Développeuse web fullstack passionnée, j'aime concevoir des solutions web sur mesure, artisanales et optimisées.
 
 Découvrez mes projets depuis mon portfolio : [ici](https://portfolio-alice-mimouni.bforweb.fr)
 
