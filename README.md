@@ -1,7 +1,7 @@
-# Bonjour 👋
+# Bonjour !
 
-## 💻 Développeuse web fullstack passionnée, j'aime concevoir des solutions web sur mesure.
+## Développeuse web fullstack passionnée, j'aime concevoir des solutions web sur mesure, accessibles pour tous et performantes.
 
-Découvrez mes derniers projets sur mon site web professionnel : [bforweb](https://bforweb.fr).
+Découvrez mon site web professionnel : [akiweb](https://akiweb.fr).
 
-### Vous avez un projet, une demande, une question => [contactez-moi 😊](mailto:alicemimouni@outlook.com)
+### Vous avez un projet, une demande, une question => [contactez-moi 😊](mailto:alicemimouni@akiweb.fr)
